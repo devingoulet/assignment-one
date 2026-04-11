@@ -1,4 +1,4 @@
 # Convert Celsius to Fahrenheit
-celsius = float(input("Enter temperature in Celsius: "))
+celsius = float(input("Please enter a Celsius temperature: "))
 fahrenheit = (celsius * 9/5) + 32
-print("Fahrenheit:", fahrenheit)
+print("The equivalent Fahrenheit temperature is:", fahrenheit)
